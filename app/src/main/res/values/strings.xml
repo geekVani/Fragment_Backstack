@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment Backstack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="flowers">
+        <item>Rose</item>
+        <item>Sunflower</item>
+        <item>Daffodil</item>
+        <item>Daisy</item>
+        <item>Lavendar</item>
+        <item>Bell Flower</item>
+        <item>Aster</item>
+    </string-array>
+</resources>
